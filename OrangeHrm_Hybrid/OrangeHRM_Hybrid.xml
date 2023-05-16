@@ -1,0 +1,11 @@
+<suite name="OrangeHRM Hybrid suite">
+	
+	<test name="Admin login Test">
+	
+		<classes>		
+			<class name="orangehrm.testcases.OrangeHrmTest"></class>		
+		</classes>
+		
+	</test>
+
+</suite>
